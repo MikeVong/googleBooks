@@ -1,0 +1,32 @@
+nav{
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+a {
+    text-decoration: none;
+    color: white
+}
+ a:hover {
+    text-decoration: underline;
+    color: white
+}
+
+.navbar-brand {
+    font-size: 65px;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#yellow{
+    color: yellow;
+}
+#green{
+    color: green;
+}
